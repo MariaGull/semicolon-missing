@@ -6,8 +6,10 @@ Note: Also Write the above code using return( ) method.*/
 #include<iostream>
 using namespace std;
 
-void reverse(int arr[], int n){
-    for(int i = 4; i >= 0; i--){
+void reverse(int arr[], int n)
+{
+  for(int i = n-1; i >= 0; i--)
+    {
         cout << arr[i] << " ";
     }
 }
