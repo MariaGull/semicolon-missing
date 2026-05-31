@@ -1,4 +1,4 @@
-# semicolon-missing ;
+ye# semicolon-missing ;
 
 My first ever error was a missing semicolon.
 So I named my entire coding journey after it.
@@ -10,5 +10,5 @@ So I named my entire coding journey after it.
 📁 assignments/ — university C++ work, semester 1 @ NUML
 
 ## why this exists
-cout<<"Most people hide their beginner code."
-coutp<<'"I'm keeping mine — because every expert was once here."
+Most people hide their beginner code.
+I'm keeping mine — because every expert was once here.
